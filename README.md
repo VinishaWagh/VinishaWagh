@@ -4,8 +4,6 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🌱 I’m currently learning: <strong>nodejs</strong>
-
 - 🔭 All of my projects are available at: [https://github.com/VinishaWagh/VinishaWagh/](https://github.com/VinishaWagh/VinishaWagh/)
 
 - 📫 How to reach me: **vinisha.wagh21@gmail.com**
